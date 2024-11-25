@@ -7,3 +7,5 @@ Technologies: Power BI
 
 Key Features: Sales Analysis, Data visualisation, Sales performance, KPI indicators
 
+Technologies: <img src="https://github.com/user-attachments/assets/ffdce1fe-19c7-46b2-ac52-31773cb889d2" width="200" height="100" alt="Logo">
+
